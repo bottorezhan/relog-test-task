@@ -23,7 +23,7 @@ __K__ - макс. количества кластеров (__K <= 100__).
 - Сделать отображение локаций на карте, для python можно использовать folium
 
 ## __Тесты__:
-Тесты находятся в директории ___/test___
+https://drive.google.com/drive/folders/1K9mN2PGNHYiPn5nvPzemtt1TqJ4ndQay?usp=sharing
 
 Каждый тест это json обект собержаший аргкменты matrix, points и K.
 
